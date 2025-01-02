@@ -15,11 +15,6 @@
 			"Name": "PaperZD",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
-		},
-		{
-			"Name": "ThumbnailGenerator",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/43c213569ac94841b37d8bed1ab81ee5"
 		}
 	]
 }
